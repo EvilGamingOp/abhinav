@@ -439,7 +439,7 @@ def main():
 
     if WEBHOOK:
         LOGGER.info("Using webhooks.")
-        updater.start_webhook(listen="https://telegram.org",
+        updater.start_webhook(listen="https://google.com",
                               port=PORT,
                               url_path=TOKEN)
 
