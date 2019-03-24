@@ -18,7 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """ 
-[ഇതൊക്കെ ഒരു രസം അല്ലെ ബാബു ഏട്ടാ](https://telegram.me/mp3sbot?start=srch_simca_WilsonAudios_16x-xhd)
+ഹായ് {}, എന്റെ പേര് {}! ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്
+എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്. ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് ആണ്. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://github.com/Anandsudhakaranps/tgbot-1) ലഭിക്കും.
+ലഭ്യമായ commandകൾക്ക്  /help എന്ന്  ടൈപ്പ് ചെയ്യൂ.... 
 
 """
 
