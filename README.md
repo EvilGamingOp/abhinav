@@ -4,7 +4,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [നസ്രാണികുട്ടി](https://t.me/GirlInTheDreamBot).
+Can be found on telegram as [TBK ADMIN BOT](https://t.me/ThalapathyNanbanbot).
 
 Marie and I are moderating a [support group](https://t.me/MarieSupport), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
@@ -13,7 +13,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Join the [news channel](https://t.me/MarieNews) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/Anand_VFC)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## Starting the bot.
 
